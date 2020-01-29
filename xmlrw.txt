@@ -12,7 +12,7 @@ $VAR1 = {
                                                 'InitgPty' => [
                                                               {
                                                                 'Nm' => [
-                                                                        "P\x{f6}lten Stra\x{df}e & GmbH new!"
+                                                                        "P\x{f6}lten Stra\x{df}e & GmbH"
                                                                       ]
                                                               }
                                                             ],
