@@ -1,0 +1,32 @@
+$VAR1 = {
+          'CstmrCdtTrfInitn' => [
+                                {
+                                  'GrpHdr' => [
+                                              {
+                                                'CreDtTm' => [
+                                                             '2020-01-30T10:20:30'
+                                                           ],
+                                                'CtrlSum' => [
+                                                             '1.10'
+                                                           ],
+                                                'InitgPty' => [
+                                                              {
+                                                                'Nm' => [
+                                                                        "P\x{f6}lten Stra\x{df}e & GmbH new!"
+                                                                      ]
+                                                              }
+                                                            ],
+                                                'MsgId' => [
+                                                           'ABC-123'
+                                                         ],
+                                                'NbOfTxs' => [
+                                                             '1'
+                                                           ]
+                                              }
+                                            ]
+                                }
+                              ],
+          'xmlns' => 'myns',
+          'xmlns:xsi' => 'http://www.w3.org/2001/XMLSchema-instance'
+        };
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="myns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <CstmrCdtTrfInitn>
+        <GrpHdr>
+            <MsgId>ABC-123</MsgId>
+            <CreDtTm>2020-01-30T10:20:30</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+            <CtrlSum>1.10</CtrlSum>
+            <InitgPty>
+                <Nm>Pölten Straße &amp; GmbH</Nm>
+            </InitgPty>
+        </GrpHdr>
+    </CstmrCdtTrfInitn>
+</Document>
